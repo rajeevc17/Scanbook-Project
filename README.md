@@ -15,5 +15,6 @@ Installation
 Download the project.
 Start the Xampp Server.
 Load the project in htdocs folder of xampp.
-Configure the database.
-Run index.php on localhost
+Configure the database connection.
+Import sql file in your database design tool.
+Run index.php on localhost.
